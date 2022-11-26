@@ -1,2 +1,0 @@
-# somedia
-Readme file
